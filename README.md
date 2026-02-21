@@ -15,4 +15,6 @@ Robot Position N 3
 
 Robot Position N 4
 
+<img width="549" height="406" alt="изображение" src="https://github.com/user-attachments/assets/a0842a5e-7e62-4baf-b103-d962f61bae96" />
+
 
