@@ -10,6 +10,9 @@ Robot Position N 2
 
 Robot Position N 3
 
+<img width="552" height="406" alt="изображение" src="https://github.com/user-attachments/assets/3d27ee81-ee09-4d08-8aa5-13c498698e7f" />
+
+
 Robot Position N 4
 
 
