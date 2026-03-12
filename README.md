@@ -1,13 +1,22 @@
 RobotTask-6-2. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application.
+In the 1st and 4th environments, the robot's field has the following dimensions: 3 cells long and 3 cells wide. 
+In the 2nd and 3rd environments, the robot's field has the following dimensions: 4 cells long and 4 cells wide. 
+It has blue walls around the perimeter.
+The blue square marks the robot's initial position.
+The robot's final position is marked with a red house. 
+The task is to move the robot from its initial position to its final position.  (see fig.)
+Complete the task for all environments (write the common code).
+The solution to the problem is in the file "Task-6-2.py".
 
-
-RobotTask-1-3. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application. The robot's field is 5 cells long and 3 cells wide. It has blue walls around the perimeter. The robot's starting position is marked with a blue square. The robot's final position is marked with a red house. The task is to move the robot from its starting position to its final position. Along the way, color in the cells marked with an orange square (see figure). The solution of the task is located in the file "Task-1-3.py".
-
-RobotTask-6-2. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя. 
-Поле робота имеет размеры: длина 5 клеток, ширина 3 клетки. Оно имеет синие стены по периметру. 
+RobotTask-6-2. Занятия по Python. Исполнитель Робот. Платформа StepInDev. 
+Приложение с графическим интерфейсом пользователя. 
+В 1-й и 4-й обстановке поле робота имеет размеры: длина 3 клеток, ширина 3 клетки. 
+Во 2-й и 3-й обстановке поле робота имеет размеры: длина 4 клеток, ширина 4 клетки. 
+Оно имеет синие стены по периметру. 
 Синим квадратом помечено начальное положение робота. 
 Конечное положение робота помечено красным домиком. 
-Требуется переместить исполнителя из начального положения в конечное.
+Требуется переместить исполнителя из начального положения в конечное. (см. рис.)
+Выполнить задание для всех обстановок (написать общий код). 
 Решение задачи находится в файле "Task-6-2.py".
 
 
