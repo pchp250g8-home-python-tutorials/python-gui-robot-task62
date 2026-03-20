@@ -1,3 +1,5 @@
+# --coding:utf-8--
+
 from robot import *
 
 bFlag1 = is_free_right() and is_free_down()
